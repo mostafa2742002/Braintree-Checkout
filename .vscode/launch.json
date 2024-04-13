@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<braintree_spring_example-main>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "springexample.Application",
+            "projectName": "braintree_spring_example-main",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
